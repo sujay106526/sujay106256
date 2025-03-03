@@ -4,7 +4,7 @@
 # `Hello World, I'm Sujay P 👋🏽`
 
 A self-taught `Full-Stack Mobile Developer`. 
-* I develop AI applications in `Mistral` models and `Weaviate` Vector Database`.
+* I develop AI applications in `Mistral` models and `Weaviate` Vector Database.
 * I develop web applications in `Next.js` and `React.js`.
 * I develop backend applications in `Node.js`.
 
